@@ -4,8 +4,8 @@
 
 ## 使用
 
-打开 `index.html` 即可使用。
+打开 `SplitTheBill.html` 即可使用。
 
 ## GitHub Pages
 
-发布到 GitHub Pages 后，访问仓库对应的 Pages 链接即可在线使用。
+发布到 GitHub Pages 后，可以访问仓库对应的 Pages 链接加上 `/SplitTheBill.html` 在线使用。
